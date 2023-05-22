@@ -36,7 +36,7 @@
 # 
 # Link to video demonstration for final submission:
 # - (insert YouTube / MyMedia / other URL here). Make sure we can view it!
-#https://utoronto-my.sharepoint.com/:f:/g/personal/vaibhav_santhanam_mail_utoronto_ca/EntqpVDio3xNk4BwXyVdv4cBXzQQPI8UozA7tqT6PM7Rrw?e=fJFOg0
+#https://youtu.be/n6T3ser2yu0
 # Are you OK with us sharing the video with people outside course staff?
 # - yes / no / yes, and please share this project github link as well!
 # yes 
