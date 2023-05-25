@@ -1,4 +1,4 @@
-# Assembly-Project- Platform Game
+# Be Positive Assembly-Project- Platform Game
 A  simple platform game based on the theme of positivity
 
 
