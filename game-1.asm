@@ -8,9 +8,6 @@
 #
 # Student: Name, Student Number, UTorID, official email
 # NAME: VAIBHAV LAKSHMI SANTHANAM 
-# STUDENT NUMBER: 1007642400
-# UTORID : santha26
-# EMAIL: vaibhav.santhanam@mail.utoronto.ca
 #------------------------------------------------
 # Bitmap Display Configuration:
 # - Unit width in pixels: 4 (update this as needed)
